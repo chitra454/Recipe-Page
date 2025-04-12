@@ -46,6 +46,3 @@ No installation required - just open `index.html` in your browser.
 - Frontend Mentor for the design challenge
 - Google Fonts for the typography
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
